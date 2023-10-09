@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.0-dil
+
+* Add Mathjax3 support
+
 ## 1.5.0 (2023/09/08)
 * Improve: The default date format for headers and footers has been changed to the ISO-based format (YYYY-MM-DD).
   * Support different date formats in templates [#197](https://github.com/yzane/vscode-markdown-pdf/pull/197)
